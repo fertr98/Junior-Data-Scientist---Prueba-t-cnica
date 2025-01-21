@@ -1,0 +1,11 @@
+store_id,store_name,location,manager,opening_date
+501,"Tienda Centro","Madrid","Juan Perez","2022-01-10"
+502,"Tienda Norte","Barcelona","Laura Lopez","2022-02-05"
+503,"Tienda Sur","Sevilla","Carlos Ramirez","2022-03-01"
+504,"Tienda Este","Valencia","Ana Gomez","2022-04-15"
+505,"Tienda Oeste","Bilbao","Pedro Hernandez","2022-05-01"
+506,"Tienda Duplicada","Madrid","Julian Casas","2022-05-20"
+507,"Tienda Móvil","Itinerante","Maria Diaz","2022-06-10"
+508,"Pop-up Store","Barcelona","-","2023-01-01"
+509,"Tienda Online","Online","Virtual Manager","2022-07-01"
+509,"Tienda Online Duplicada","Online","Virtual Manager","2022-07-01"

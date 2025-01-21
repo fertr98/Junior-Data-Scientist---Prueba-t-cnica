@@ -1,0 +1,22 @@
+product_id,product_name,category,price,cost,launch_date,status
+101,"Cafetera Premium","Electrodomesticos",90,60,2023-01-01,active
+102,"Cafetera Básica","Electrodomesticos",60,40,2023-01-15,active
+103,"Tostadora 2 rebanadas","Electrodomesticos",30,20,2022-11-01,active
+104,"Tostadora 4 rebanadas","Electrodomesticos",50,30,2022-12-01,paused
+105,"Batidora Compacta","Electrodomesticos",80,,2023-02-01,active
+106,"Lavadora 7kg","Electrodomesticos",300,200,2022-05-01,discontinued
+107,"Tableta 8 pulgadas","Electrónica",120,95,2023-03-10,active
+108,"Smartphone Gama Media","Electrónica",250,180,2023-03-15,active
+109,"Smartphone Gama Alta","Electrónica",500,380,2023-03-20,active
+110,"Laptop Básica","Electrónica",450,350,2023-01-05,paused
+111,"Laptop Profesional","Electrónica",900,700,2023-02-01,active
+112,"Cámara Deportiva","Electrónica",200,150,2023-04-01,active
+113,"Cámara Réflex","Electrónica",800,600,2023-04-10,active
+114,"Termo 500ml","Hogar",15,10,2022-09-01,active
+115,"Termo 1L","Hogar",25,18,2022-09-15,active
+116,"Aspiradora Robot","Electrodomesticos",250,180,2022-10-01,active
+117,"Pack Cuchillos x3","Hogar",40,25,2023-01-05,active
+117,"Pack Cuchillos x3","Hogar",40,25,2023-01-05,active
+118,"Parrilla Eléctrica","Electrodomesticos",100,70,2023-02-15,active
+119,"Ventilador de Pie","Electrodomesticos",35,25,2023-02-20,active
+120,"Plancha de Ropa","Electrodomesticos",45,30,2023-03-01,active
