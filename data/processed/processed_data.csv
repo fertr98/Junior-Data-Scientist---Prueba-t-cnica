@@ -1,0 +1,33 @@
+product_name,category,price,cost,units_sold,total_revenue,total_cost,launch_date,sale_date,store_name,location,opening_date
+Cafetera Premium,Electrodomesticos,90,60.0,5,450,300,2023-01-01,2023-01-02,Tienda Centro,Madrid,2022-01-10
+Cafetera Básica,Electrodomesticos,60,40.0,3,180,120,2023-01-15,2023-01-03,Tienda Centro,Madrid,2022-01-10
+Batidora Compacta,Electrodomesticos,80,72.78,1,80,72.78,2023-02-01,2023-01-03,Tienda Centro,Madrid,2022-01-10
+Tostadora 2 rebanadas,Electrodomesticos,30,20.0,2,60,40,2022-11-01,2023-01-15,Tienda Norte,Barcelona,2022-02-05
+Tostadora 4 rebanadas,Electrodomesticos,50,30.0,1,50,30,2022-12-01,2023-02-10,Tienda Norte,Barcelona,2022-02-05
+Lavadora 7kg,Electrodomesticos,300,200.0,1,300,200,2022-05-01,2023-02-11,Tienda Norte,Barcelona,2022-02-05
+Tableta 8 pulgadas,Electrónica,120,95.0,2,240,190,2023-03-10,2023-02-15,Tienda Sur,Sevilla,2022-03-01
+Smartphone Gama Media,Electrónica,250,180.0,1,250,180,2023-03-15,2023-02-16,Tienda Sur,Sevilla,2022-03-01
+Smartphone Gama Alta,Electrónica,500,380.0,1,500,380,2023-03-20,2023-02-20,Tienda Este,Valencia,2022-04-15
+Laptop Básica,Electrónica,450,350.0,2,900,700,2023-01-05,2023-03-01,Tienda Centro,Madrid,2022-01-10
+Batidora Compacta,Electrodomesticos,80,72.78,2,160,145.56,2023-02-01,2023-03-05,Tienda Duplicada,Madrid,2022-05-20
+Pack Cuchillos x3,Hogar,40,25.0,5,200,25,2023-01-05,2023-03-05,Tienda Duplicada,Madrid,2022-05-20
+Cafetera Premium,Electrodomesticos,90,60.0,10,850,600,2023-01-01,2023-03-10,Tienda Móvil,Itinerante,2022-06-10
+Plancha de Ropa,Electrodomesticos,45,30.0,2,90,60,2023-03-01,2023-03-11,Tienda Móvil,Itinerante,2022-06-10
+Termo 1L,Hogar,25,18.0,3,75,54,2022-09-15,2023-03-25,Tienda Online,Online,2022-07-01
+Termo 1L,Hogar,25,18.0,3,75,54,2022-09-15,2023-03-25,Tienda Online Duplicada,Online,2022-07-01
+Termo 500ml,Hogar,15,10.0,5,75,50,2022-09-01,2023-03-26,Tienda Online,Online,2022-07-01
+Termo 500ml,Hogar,15,10.0,5,75,50,2022-09-01,2023-03-26,Tienda Online Duplicada,Online,2022-07-01
+Aspiradora Robot,Electrodomesticos,250,180.0,1,250,180,2022-10-01,2023-04-01,Tienda Centro,Madrid,2022-01-10
+Pack Cuchillos x3,Hogar,40,25.0,1,40,25,2023-01-05,2023-04-02,Tienda Centro,Madrid,2022-01-10
+Ventilador de Pie,Electrodomesticos,35,25.0,1,35,25,2023-02-20,2023-04-06,Tienda Norte,Barcelona,2022-02-05
+Plancha de Ropa,Electrodomesticos,45,30.0,2,90,60,2023-03-01,2023-04-07,Tienda Norte,Barcelona,2022-02-05
+Plancha de Ropa,Electrodomesticos,45,30.0,2,90,60,2023-03-01,2023-04-07,Tienda Norte,Barcelona,2022-02-05
+Cámara Réflex,Electrónica,800,600.0,1,800,600,2023-04-10,2023-04-10,Tienda Oeste,Bilbao,2022-05-01
+Cámara Deportiva,Electrónica,200,150.0,2,400,300,2023-04-01,2023-04-10,Tienda Oeste,Bilbao,2022-05-01
+Laptop Básica,Electrónica,450,350.0,3,1350,1050,2023-01-05,2023-04-11,Tienda Oeste,Bilbao,2022-05-01
+Smartphone Gama Media,Electrónica,250,180.0,2,500,360,2023-03-15,2023-04-15,Tienda Online,Online,2022-07-01
+Smartphone Gama Media,Electrónica,250,180.0,2,500,360,2023-03-15,2023-04-15,Tienda Online Duplicada,Online,2022-07-01
+Plancha de Ropa,Electrodomesticos,45,30.0,3,135,90,2023-03-01,2023-04-16,Tienda Este,Valencia,2022-04-15
+Parrilla Eléctrica,Electrodomesticos,100,70.0,2,200,140,2023-02-15,2023-05-01,Tienda Duplicada,Madrid,2022-05-20
+Ventilador de Pie,Electrodomesticos,35,25.0,3,105,75,2023-02-20,2023-05-02,Tienda Duplicada,Madrid,2022-05-20
+Cafetera Premium,Electrodomesticos,90,60.0,4,360,240,2023-01-01,2023-05-02,Pop-up Store,Barcelona,2023-01-01
